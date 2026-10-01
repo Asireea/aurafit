@@ -1,0 +1,6 @@
+{
+  "name": "AuraFit - Personal Trainer Match & Automation Hub",
+  "description": "Connect with certified personal coaches tailored to your fitness goals, experience level, and workout style, powered by real-time matching and n8n automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
